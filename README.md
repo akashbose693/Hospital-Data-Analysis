@@ -1,9 +1,9 @@
 # Hospital-Data-Analysis
 A data analytics project focused on hospital operations and performance analysis using Excel. Explores patient records, hospital metrics, healthcare trends, and key insights through data cleaning, analysis, and visualization to support data-driven decision-making.
-🏥📊 Hospital Data Analysis Dashboard | Microsoft Excel
-I’m excited to share my Hospital Data Analysis Dashboard, created using Microsoft Excel. 📊
+# Hospital Data Analysis Dashboard | Microsoft Excel
+I’m excited to share my Hospital Data Analysis Dashboard, created using Microsoft Excel. 
 This project was a great opportunity to apply my Excel skills to a practical healthcare dataset and transform raw data into meaningful insights through analysis and visualization.
-🎯 Dashboard Highlights
+# Dashboard Highlights
 The dashboard provides an interactive overview of:
 🔹 Total Patients: 9,221
 🔹 Average Satisfaction Score: 4.99
@@ -16,16 +16,16 @@ The dashboard provides an interactive overview of:
 The visualizations make it easier to identify trends, compare categories, and understand patient-related patterns at a glance.
 🛠️ Excel Features Used
 While building this dashboard, I worked with several Excel features, including:
-✅ Pivot Tables & Pivot Charts
-✅ Power Query
-✅ Slicers & Filters
-✅ SUMIFS, COUNTIFS & AVERAGEIFS
-✅ IF / IFS & IFERROR
-✅ Lookup Functions / XLOOKUP
-✅ KPI Cards
-✅ Interactive Charts & Data Labels
-✅ Conditional Formatting
-✅ Shapes, Icons & Dashboard Formatting
+Pivot Tables & Pivot Charts,
+Power Query,
+Slicers & Filters,
+SUMIFS, COUNTIFS & AVERAGEIFS,
+IF / IFS & IFERROR,
+Lookup Functions / XLOOKUP,
+KPI Cards,
+Interactive Charts & Data Labels,
+Conditional Formatting,
+Shapes, Icons & Dashboard Formatting.
 These features helped me create an interactive and user-friendly dashboard rather than just a static report.
 💡 Key Learning
 This project strengthened my understanding of how data cleaning, analysis, visualization, and dashboard design work together.
