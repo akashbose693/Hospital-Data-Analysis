@@ -27,7 +27,7 @@ Interactive Charts & Data Labels,
 Conditional Formatting,
 Shapes, Icons & Dashboard Formatting.
 These features helped me create an interactive and user-friendly dashboard rather than just a static report.
-💡 Key Learning
+Key Learning
 This project strengthened my understanding of how data cleaning, analysis, visualization, and dashboard design work together.
 
 One key lesson I learned is:
